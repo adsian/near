@@ -1,0 +1,11 @@
+/Users/gfjk/near/guest-book-rust/contract/target/debug/deps/wee_alloc-4e92c3f38cacae4e.rmeta: /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/lib.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/extra_assert.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/const_init.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/neighbors.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/imp_unix.rs
+
+/Users/gfjk/near/guest-book-rust/contract/target/debug/deps/libwee_alloc-4e92c3f38cacae4e.rlib: /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/lib.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/extra_assert.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/const_init.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/neighbors.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/imp_unix.rs
+
+/Users/gfjk/near/guest-book-rust/contract/target/debug/deps/wee_alloc-4e92c3f38cacae4e.d: /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/lib.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/extra_assert.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/const_init.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/neighbors.rs /Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/imp_unix.rs
+
+/Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/lib.rs:
+/Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/extra_assert.rs:
+/Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/const_init.rs:
+/Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/neighbors.rs:
+/Users/gfjk/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wee_alloc-0.4.5/src/imp_unix.rs:
